@@ -76,7 +76,6 @@ namespace HNI_TPmoyennes
         // Tronquer un nombre à deux chiffres après la virgule
         private float TronquerNombre(float nombre)
         {
-            // Multiplier par 100, tronquer, puis diviser par 100
             int nombreEntier = (int)(nombre * 100);
             return nombreEntier / 100f;
         }
