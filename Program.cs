@@ -73,7 +73,7 @@ namespace HNI_TPmoyennes
             return TronquerNombre(moyenneGenerale);
         }
 
-        // Tronquer un nombre à deux chiffres après la virgule
+        // Tronquer un nombre à 2 chiffres après la virgule
         private float TronquerNombre(float nombre)
         {
             int nombreEntier = (int)(nombre * 100);
@@ -153,7 +153,7 @@ namespace HNI_TPmoyennes
                 somme += moyenneMatiere(i);
             }
 
-            // Moyenne générale de la classe deux chiffres après la virgule
+            // Moyenne générale de la classe 2 chiffres après la virgule
             float moyenneGenerale = somme / matieres.Count;
             return TronquerNombre(moyenneGenerale);
         }
