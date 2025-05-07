@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rudy Baray\\source\\repos\\HNI-TPmoyennes\\HNI-TPmoyennes.csproj": {}
+    "C:\\Users\\Rudy Baray\\Source\\Repos\\HNI-TPmoyennes\\HNI-TPmoyennes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rudy Baray\\source\\repos\\HNI-TPmoyennes\\HNI-TPmoyennes.csproj": {
+    "C:\\Users\\Rudy Baray\\Source\\Repos\\HNI-TPmoyennes\\HNI-TPmoyennes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rudy Baray\\source\\repos\\HNI-TPmoyennes\\HNI-TPmoyennes.csproj",
+        "projectUniqueName": "C:\\Users\\Rudy Baray\\Source\\Repos\\HNI-TPmoyennes\\HNI-TPmoyennes.csproj",
         "projectName": "HNI-TPmoyennes",
-        "projectPath": "C:\\Users\\Rudy Baray\\source\\repos\\HNI-TPmoyennes\\HNI-TPmoyennes.csproj",
+        "projectPath": "C:\\Users\\Rudy Baray\\Source\\Repos\\HNI-TPmoyennes\\HNI-TPmoyennes.csproj",
         "packagesPath": "C:\\Users\\Rudy Baray\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Rudy Baray\\Source\\Repos\\HNI-TPmoyennes\\obj\\",
         "projectStyle": "PackageReference",
